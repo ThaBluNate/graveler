@@ -1,7 +1,7 @@
 # Graveler_x.c
 A submission to [ShoddyCast's graveler challenge.](https://youtu.be/M8C8dHQE2Ro)
 
-My fastest time on Graveler_B was 627.103 seconds, on my ASUS FA707NU-DS74 Laptop (Win11).
+My fastest time on Graveler_B was 626.608 seconds, on my ASUS FA707NU-DS74 Laptop (Win11).
 
 ![{C996E4BD-EBA0-40FA-96B6-C7B3A4ECC82C}](https://github.com/user-attachments/assets/79953f3d-ef46-40cb-abfb-fd70cacea818)
 # Implementation
